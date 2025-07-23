@@ -157,6 +157,49 @@ Fact table : It will have the data about the transactions
 
 <img src="https://github.com/zaghem1234/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
+### Dashboard designing
+
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
+## Home view
+
+In Home view, all the views button will be available. User will land on specific view page by clicking the button 
+
+- Info
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+- Products
+- Support
+
+## Overall Report
+
+![Overall Report.gif](https://github.com/zaghem1234/Business_Insights_360/blob/main/Resources/Overall.gif)
+
+## Info Page
+
+![Info.gif](https://github.com/zaghem1234/Business_Insights_360/blob/main/Resources/Info.gif)
+
+## Finance View
+
+![Finace.gif](https://github.com/zaghem1234/Business_Insights_360/blob/main/Resources/Finace.gif)
+## Sales View
+
+![Sales.gif](https://github.com/zaghem1234/Business_Insights_360/blob/main/Resources/Sales.gif)
+
+## Marketing View
+
+![Marketing.gif](https://github.com/zaghem1234/Business_Insights_360/blob/main/Resources/Marketing.gif)
+
+## Supply chain View
+
+![Supply chain.gif](https://github.com/zaghem1234/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+
+## Executive View
+
+![Executive.gif](https://github.com/zaghem1234/Business_Insights_360/blob/main/Resources/Executive.gif)
 
 
 
